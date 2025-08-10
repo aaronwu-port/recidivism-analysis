@@ -18,12 +18,6 @@ Observations: 25,835 individuals
 Time Period: 3-year follow-up
 Variables: 57 variables including demographics, criminal history, program participation, employment, education, and recidivism outcomes
 
-Repository Structure
-├── Recid-Analysis-Code.r          # Main R analysis script
-├── Analytics Project Write-Up.pdf  # Complete research paper
-├── README.md                      # This file
-└── data/                          # Data directory (not included)
-    └── NIJ Challenge2021_Full Dataset.sav
 Methodology
 Statistical Approach
 
@@ -99,7 +93,6 @@ Summary statistics tables
 Logistic regression models
 Probability prediction plots
 LaTeX regression table (for academic papers)
-
 
 Visualizations
 The analysis produces five main plots:
