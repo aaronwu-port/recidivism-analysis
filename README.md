@@ -1,2 +1,2 @@
 # recidivism-analysis
-Logistic regression and analysis on National Institute of Justice dataset
+Statistical modeling of recidivism using logistic regression and data visualization in R.
