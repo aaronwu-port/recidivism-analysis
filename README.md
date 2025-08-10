@@ -1,4 +1,4 @@
-Exploring Causes of Recidivism and Rehabilitative Inefficiencies
+Exploring Causes of Recidivism and Rehabilitative Inefficiencies 
 Project Overview
 This project analyzes criminal recidivism data to examine the effectiveness of current rehabilitation programs and identify factors that contribute to reoffending. The analysis explores whether the U.S. criminal justice system should pivot from traditional rehabilitation methods to more education and employment-focused re-entry programs.
 Research Question
